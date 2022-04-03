@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My SplashScreen</string>
+    <string name="name">Компьютер</string>
+    <string name="logo">Логотип</string>
+</resources>
